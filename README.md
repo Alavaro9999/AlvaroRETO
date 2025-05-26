@@ -2,11 +2,11 @@
 
 # INDICE
 Documentacion de la App de Gestion Veeterinaria
-Indice
-Introduccion
-Uso
-Contribucion
-Subvencione
+    Indice
+    Introduccion
+    Uso
+    Contribucion
+    Subvencione
 
 # Introduccion
 El sistema...
