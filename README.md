@@ -1,10 +1,10 @@
 # Documento de la App de Gestion Veterinaria
 
    # INDICE
-       - Documentacion de la App de Gestion Veeterinaria
-           - Indice
-           - Introduccion
-           - Uso
-           - Contribucion
-           - Subvenciones
-   ## Introduccio
+- Documentacion de la App de Gestion Veeterinaria
+- Indice
+- Introduccion
+- Uso
+- Contribucion
+- Subvenciones
+## Introduccio
