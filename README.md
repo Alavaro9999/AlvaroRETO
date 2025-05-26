@@ -1,7 +1,7 @@
 # Documento de la App de Gestion Veterinaria
 
 # INDICE
-    - Documentacion de la App de Gestion Veeterinaria(/README.md)
+    - Documentacion de la App de Gestion Veeterinaria
         - Indice
         - Introduccion
         - Uso
