@@ -1,18 +1,22 @@
 # Documento de la App de Gestion Veterinaria
 
-## INDICE
-
+# INDICE
     - Documentacion de la App de Gestion Veeterinaria(/README.md)
-    - Indice
-    - Introduccion
-    - Uso
-    - Contribucion
-    - Subvencione
+        - Indice
+        - Introduccion
+        - Uso
+        - Contribucion
+        - Subvencione
 
-## Introduccion
+# Introduccion
 El sistema...
 
-## Instalacion
-# aqui van cosas
-aqui una prueba
+# Instalacion
+Pasos
+ 1. Clonar el repositorio
+    -
+        git clone https://github.com/tu-usuario/nombreAlumnoReto.git
+    -
+2. Abre el proyecto en tu entorno de preferencia
+3. Compila y ejecuta el proyecto    
 
