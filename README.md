@@ -1,12 +1,12 @@
 # Documento de la App de Gestion Veterinaria
 
 # INDICE
-Documentacion de la App de Gestion Veeterinaria
-    Indice
-    Introduccion
-    Uso
-    Contribucion
-    Subvencione
+ - Documentacion de la App de Gestion Veeterinaria
+   - Indice
+   - Introduccion
+   - Uso
+   - Contribucion
+   - Subvencione
 
 # Introduccion
 El sistema...
@@ -21,14 +21,5 @@ Pasos
 # Uso
 El sistema  veterinario incluye las siguientes funciones
 
-mas texto
 
 
-|**Usuario | **Funcionalidad 
-|----------------------------|
-| Paciente | Solicita citas, accede a historial, contacta con el medico|
-|--------------------------------------------------------------------|
-| Veterinario | Gestionar Citas, Consultar historiales |
-|----------------------------------------------------|
-| Administradrot | Administrar personal|
-|------------------------------------|s
