@@ -20,3 +20,23 @@ Pasos
 2. Abre el proyecto en tu entorno de preferencia
 3. Compila y ejecuta el proyecto    
 
+# Uso
+El sistema  veterinario incluye las siguientes funciones
+    1.
+    2.
+    3.
+    4.
+    - 
+    6. l
+
+mas texto
+
+
+|**Usuario | **Funcionalidad 
+|----------------------------|
+| Paciente | Solicita citas, accede a historial, contacta con el medico|
+|--------------------------------------------------------------------|
+| Veterinario | Gestionar Citas, Consultar historiales |
+|----------------------------------------------------|
+| Administradrot | Administrar personal|
+|------------------------------------|s
